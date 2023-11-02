@@ -1,0 +1,11 @@
+################################HELP################################
+# Para selecionar uma das operacoes basicas volte primeiro ao menu #
+# principal dando input do numero 7 e de seguida de input de um    #
+# dos numero 1,2,3,4 que conrespondem a Adicao, Subtracao,         #
+# Multiplicacao, Divisao respetivamente (apenas uma operacao pode  #
+# ser executada de uma vez). Depois de ter selecionado a operacao  #
+# que deseja, sera pedido o primeiro numero da operacao atraves de #
+# um prompt na consola seguido do segundo numero e o print da      #
+# resposta.                                                        #
+# Este programa leva como input todos os numeros reais.            #
+####################################################################

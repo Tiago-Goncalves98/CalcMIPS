@@ -1,0 +1,9 @@
+################################HELP################################
+# Para selecionar a opcao de calcular raizes primeiro volte ao     #
+# menu principal dando o input de 7 e de seguida de o input de 8.  #
+# A partir de aqui pode escolher calcular a raiz quadrada ou raiz  #
+# cubica com os inputs 1 e 2 respetivamente. De seguida entre o    #
+# numero qual quer calcular a raiz e recebera o resultado.         #
+# Este programa recebe numeros reais como input e calcula apenas   #
+# uma aproximacao do resultado real.                               #
+####################################################################

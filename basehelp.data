@@ -1,0 +1,8 @@
+################################HELP################################
+# Para selecionar a opcao de conversao de bases, primeiro volte ao #
+# menu principal dando o input de 7. De seguida pode escolher entre#
+# converter de decimal para numero binario de 32 bits, ou pode     #
+# escolher converter decimal para um numero hexadecimal no formato #
+# 0x00000000 usando os inputs 5 ou 6 respetivamente.               #
+# Estes programas pode receber como input apenas numeros inteiros. #
+####################################################################

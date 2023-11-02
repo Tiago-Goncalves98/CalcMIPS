@@ -1,0 +1,12 @@
+################################HELP################################
+# Para selecionar a opcao de calcular logaritmos primeiro volte    #
+# para o menu principal dando o input de 7 e de seguida selecione  #
+# a opcao de logaritmos com o input 7 de novo. Depois tera a opcao #
+# calcular logaritmos de base 2 ou de base 10. Use os inputs 1 ou 2#
+# para os selecionar. Depois de selecionar a operacao sera pedido  #
+# o inteiro para o qual quer calcular o logaritmo.                 #
+# Este programa usa o principio que dita LOGa(b)=x <==> a**x=b para#
+# calcular o logaritmo.
+# Este programa apenas consegue calcular logaritmos de inteiros e  #
+# se o resultado do mesmo for tambem inteiro.                      #
+####################################################################

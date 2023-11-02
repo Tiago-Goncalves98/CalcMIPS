@@ -1,0 +1,8 @@
+################################HELP################################
+# Para selecionar a opcao de potencias volte primeiro ao menu      #
+# principal dando o input de 7 e de seguida o input de 8 para      #
+# comecar a operacao. O programa primeiro pede o valor da base     #
+# da potencia e depois da print do resultado.                      #
+# Este programa aceita numeros reais como input para a base e      #
+# apenas numeros naturais para o expoente.                         #
+####################################################################

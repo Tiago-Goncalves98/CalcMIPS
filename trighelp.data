@@ -1,0 +1,9 @@
+################################HELP################################
+# Para selecionar a opcao de trigonometria primeiro volte ao menu  #
+# principal dando o input 7 e de seguida de input de 10 para entrar#
+# no menu de trigonometria. Pode agora escolher entre calcular o   #
+# seno ou o cosseno de um angulo em radianos.                      #
+# Este programa usa Series de Taylor para calcular uma aproximacao #
+# do resultado real. As aproximacoes sao apenas corretas com       #
+# inputs entre -pi/2 e pi/2.                                        #
+####################################################################

@@ -1,0 +1,14 @@
+##############################MAINMENU##############################
+# 0 - Close program                                                #
+# 1 - Adicao                                                       #
+# 2 - Subtracao                                                    #
+# 3 - Multipicacao                                                 #
+# 4 - Divisao                                                      #
+# 5 - Decimal para Binary                                          #
+# 6 - Decimal para Hexa                                            #
+# 7 - Logaritmos de base 2 e 10                                    #
+# 8 - Potencia                                                     #
+# 9 - Raiz quadrada e cubica                                       #
+# 10 - Seno e Cosseno                                              #
+# 11 - Help                                                        #
+####################################################################
