@@ -1,6 +1,8 @@
 # CalcMIPS
 A basic calculator for MIPS that can be run in the MARS MIPS simulator.(ALL portuguese)
 
+Open the _calculadora.asm_ file in the MARS MIPS simulator and assemble to run.
+
 # What it can calculate
 
 * Basic addition/subtraction/multiplication/division;
