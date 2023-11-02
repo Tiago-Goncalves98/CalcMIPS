@@ -1,6 +1,6 @@
 ##########################################################
 # Projeto de Arquitetura de Computadores 2020/2021 - UAL #
-# TEMA: Calculadora Científica   FASE:4                  #
+# TEMA: Calculadora CientÃ­fica   FASE:4                  #
 # GRUPO:                                                 #
 # 30007039 - Andre Goncalves                             #
 # 30007075 - Tiago Goncalves                             #
@@ -14,7 +14,7 @@
 	helpspace: .space 1024
 	basicfile: .asciiz "basichelp.data"
 	basicspace: .space 1024
-	basefile: .asciiz "basechelp.data"
+	basefile: .asciiz "basehelp.data"
 	basespace: .space 1024
 	logfile: .asciiz "loghelp.data"
 	logspace: .space 1024
